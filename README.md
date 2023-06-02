@@ -20,3 +20,10 @@ The behaviour of snake biting and ladder taking up is taken care of.
 - As usual, the snake takes you down to the tail. Ladder takes you up. And if nothing, simply move up by the die.
 - If the player reaches 100, he wins, and the game stops.
 
+## Low Level Design :
+
+There are many components. Each class has single responsibily.
+Pls refer code for each class and the documentation.
+
+
+
